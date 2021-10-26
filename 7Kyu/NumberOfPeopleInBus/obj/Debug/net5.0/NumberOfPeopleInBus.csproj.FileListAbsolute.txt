@@ -1,0 +1,15 @@
+F:\Codewars\7Kyu\NumberOfPeopleInBus\bin\Debug\net5.0\NumberOfPeopleInBus.exe
+F:\Codewars\7Kyu\NumberOfPeopleInBus\bin\Debug\net5.0\NumberOfPeopleInBus.deps.json
+F:\Codewars\7Kyu\NumberOfPeopleInBus\bin\Debug\net5.0\NumberOfPeopleInBus.runtimeconfig.json
+F:\Codewars\7Kyu\NumberOfPeopleInBus\bin\Debug\net5.0\NumberOfPeopleInBus.runtimeconfig.dev.json
+F:\Codewars\7Kyu\NumberOfPeopleInBus\bin\Debug\net5.0\NumberOfPeopleInBus.dll
+F:\Codewars\7Kyu\NumberOfPeopleInBus\bin\Debug\net5.0\ref\NumberOfPeopleInBus.dll
+F:\Codewars\7Kyu\NumberOfPeopleInBus\bin\Debug\net5.0\NumberOfPeopleInBus.pdb
+F:\Codewars\7Kyu\NumberOfPeopleInBus\obj\Debug\net5.0\NumberOfPeopleInBus.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codewars\7Kyu\NumberOfPeopleInBus\obj\Debug\net5.0\NumberOfPeopleInBus.AssemblyInfoInputs.cache
+F:\Codewars\7Kyu\NumberOfPeopleInBus\obj\Debug\net5.0\NumberOfPeopleInBus.AssemblyInfo.cs
+F:\Codewars\7Kyu\NumberOfPeopleInBus\obj\Debug\net5.0\NumberOfPeopleInBus.csproj.CoreCompileInputs.cache
+F:\Codewars\7Kyu\NumberOfPeopleInBus\obj\Debug\net5.0\NumberOfPeopleInBus.dll
+F:\Codewars\7Kyu\NumberOfPeopleInBus\obj\Debug\net5.0\ref\NumberOfPeopleInBus.dll
+F:\Codewars\7Kyu\NumberOfPeopleInBus\obj\Debug\net5.0\NumberOfPeopleInBus.pdb
+F:\Codewars\7Kyu\NumberOfPeopleInBus\obj\Debug\net5.0\NumberOfPeopleInBus.genruntimeconfig.cache
