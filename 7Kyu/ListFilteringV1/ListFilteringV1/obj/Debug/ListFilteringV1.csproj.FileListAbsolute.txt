@@ -1,0 +1,7 @@
+D:\Codewars\7Kyu\ListFilteringV1\ListFilteringV1\bin\Debug\ListFilteringV1.exe.config
+D:\Codewars\7Kyu\ListFilteringV1\ListFilteringV1\bin\Debug\ListFilteringV1.exe
+D:\Codewars\7Kyu\ListFilteringV1\ListFilteringV1\bin\Debug\ListFilteringV1.pdb
+D:\Codewars\7Kyu\ListFilteringV1\ListFilteringV1\obj\Debug\ListFilteringV1.csproj.CoreCompileInputs.cache
+D:\Codewars\7Kyu\ListFilteringV1\ListFilteringV1\obj\Debug\ListFilteringV1.exe
+D:\Codewars\7Kyu\ListFilteringV1\ListFilteringV1\obj\Debug\ListFilteringV1.pdb
+D:\Codewars\7Kyu\ListFilteringV1\ListFilteringV1\obj\Debug\ListFilteringV1.csproj.AssemblyReference.cache
