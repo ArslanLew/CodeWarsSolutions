@@ -1,0 +1,6 @@
+D:\Codewars\7Kyu\HighestAndLowestV1\HighestAndLowestV1\bin\Debug\HighestAndLowestV1.exe.config
+D:\Codewars\7Kyu\HighestAndLowestV1\HighestAndLowestV1\bin\Debug\HighestAndLowestV1.exe
+D:\Codewars\7Kyu\HighestAndLowestV1\HighestAndLowestV1\bin\Debug\HighestAndLowestV1.pdb
+D:\Codewars\7Kyu\HighestAndLowestV1\HighestAndLowestV1\obj\Debug\HighestAndLowestV1.csproj.CoreCompileInputs.cache
+D:\Codewars\7Kyu\HighestAndLowestV1\HighestAndLowestV1\obj\Debug\HighestAndLowestV1.exe
+D:\Codewars\7Kyu\HighestAndLowestV1\HighestAndLowestV1\obj\Debug\HighestAndLowestV1.pdb
