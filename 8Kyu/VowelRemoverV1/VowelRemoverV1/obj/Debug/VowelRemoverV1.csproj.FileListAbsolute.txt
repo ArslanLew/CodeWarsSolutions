@@ -1,0 +1,7 @@
+D:\Codewars\8Kyu\VowelRemoverV1\VowelRemoverV1\bin\Debug\VowelRemoverV1.exe.config
+D:\Codewars\8Kyu\VowelRemoverV1\VowelRemoverV1\bin\Debug\VowelRemoverV1.exe
+D:\Codewars\8Kyu\VowelRemoverV1\VowelRemoverV1\bin\Debug\VowelRemoverV1.pdb
+D:\Codewars\8Kyu\VowelRemoverV1\VowelRemoverV1\obj\Debug\VowelRemoverV1.csproj.AssemblyReference.cache
+D:\Codewars\8Kyu\VowelRemoverV1\VowelRemoverV1\obj\Debug\VowelRemoverV1.csproj.CoreCompileInputs.cache
+D:\Codewars\8Kyu\VowelRemoverV1\VowelRemoverV1\obj\Debug\VowelRemoverV1.exe
+D:\Codewars\8Kyu\VowelRemoverV1\VowelRemoverV1\obj\Debug\VowelRemoverV1.pdb
