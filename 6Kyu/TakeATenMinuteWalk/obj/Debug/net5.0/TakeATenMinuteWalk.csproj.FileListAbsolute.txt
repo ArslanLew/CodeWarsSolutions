@@ -1,0 +1,16 @@
+C:\Users\lew\source\repos\TakeATenMinuteWalk\obj\Debug\net5.0\TakeATenMinuteWalk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lew\source\repos\TakeATenMinuteWalk\obj\Debug\net5.0\TakeATenMinuteWalk.AssemblyInfoInputs.cache
+C:\Users\lew\source\repos\TakeATenMinuteWalk\obj\Debug\net5.0\TakeATenMinuteWalk.AssemblyInfo.cs
+C:\Users\lew\source\repos\TakeATenMinuteWalk\obj\Debug\net5.0\TakeATenMinuteWalk.csproj.CoreCompileInputs.cache
+C:\Users\lew\source\repos\TakeATenMinuteWalk\bin\Debug\net5.0\TakeATenMinuteWalk.exe
+C:\Users\lew\source\repos\TakeATenMinuteWalk\bin\Debug\net5.0\TakeATenMinuteWalk.deps.json
+C:\Users\lew\source\repos\TakeATenMinuteWalk\bin\Debug\net5.0\TakeATenMinuteWalk.runtimeconfig.json
+C:\Users\lew\source\repos\TakeATenMinuteWalk\bin\Debug\net5.0\TakeATenMinuteWalk.runtimeconfig.dev.json
+C:\Users\lew\source\repos\TakeATenMinuteWalk\bin\Debug\net5.0\TakeATenMinuteWalk.dll
+C:\Users\lew\source\repos\TakeATenMinuteWalk\bin\Debug\net5.0\ref\TakeATenMinuteWalk.dll
+C:\Users\lew\source\repos\TakeATenMinuteWalk\bin\Debug\net5.0\TakeATenMinuteWalk.pdb
+C:\Users\lew\source\repos\TakeATenMinuteWalk\obj\Debug\net5.0\TakeATenMinuteWalk.dll
+C:\Users\lew\source\repos\TakeATenMinuteWalk\obj\Debug\net5.0\ref\TakeATenMinuteWalk.dll
+C:\Users\lew\source\repos\TakeATenMinuteWalk\obj\Debug\net5.0\TakeATenMinuteWalk.pdb
+C:\Users\lew\source\repos\TakeATenMinuteWalk\obj\Debug\net5.0\TakeATenMinuteWalk.genruntimeconfig.cache
+C:\Users\lew\source\repos\TakeATenMinuteWalk\obj\Debug\net5.0\TakeATenMinuteWalk.csproj.AssemblyReference.cache
