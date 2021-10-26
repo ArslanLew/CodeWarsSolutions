@@ -1,0 +1,7 @@
+D:\Codewars\8Kyu\SquareSumCodewarsV1\SquareSumCodewarsV1\bin\Debug\SquareSumCodewarsV1.exe.config
+D:\Codewars\8Kyu\SquareSumCodewarsV1\SquareSumCodewarsV1\bin\Debug\SquareSumCodewarsV1.exe
+D:\Codewars\8Kyu\SquareSumCodewarsV1\SquareSumCodewarsV1\bin\Debug\SquareSumCodewarsV1.pdb
+D:\Codewars\8Kyu\SquareSumCodewarsV1\SquareSumCodewarsV1\obj\Debug\SquareSumCodewarsV1.csproj.AssemblyReference.cache
+D:\Codewars\8Kyu\SquareSumCodewarsV1\SquareSumCodewarsV1\obj\Debug\SquareSumCodewarsV1.csproj.CoreCompileInputs.cache
+D:\Codewars\8Kyu\SquareSumCodewarsV1\SquareSumCodewarsV1\obj\Debug\SquareSumCodewarsV1.exe
+D:\Codewars\8Kyu\SquareSumCodewarsV1\SquareSumCodewarsV1\obj\Debug\SquareSumCodewarsV1.pdb
